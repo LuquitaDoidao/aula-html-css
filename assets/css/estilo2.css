@@ -1,0 +1,186 @@
+.senai {
+    width: 300px;
+    height: 84px;
+}
+h3 {
+    color: white;
+    background-color: rgb(172, 0, 0);
+}
+.inicio {
+    background-image: url(../img/comunicacao.png);
+    background-size: cover;
+    background-position: center;
+}
+ul, ol, li {
+    list-style: none;
+}
+
+.btn{
+    background-color: #BB4848;
+    margin: 0 15px;
+    color: white;
+    font-size: 1em;
+    width: 130px;
+    height: 54px;
+    padding-top: 0px;
+    border-radius: 19px 19px 19px 19px;
+    border-color: #BB4848;
+    font-family: Arial, Helvetica, sans-serif;
+    letter-spacing: 4px;
+}
+.btn:hover {
+    background-color: #F47D7D;
+    border-color: #F47D7D;
+}
+h1 {
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    letter-spacing: 6px;
+    font-size: 3em;
+    font-weight: 700;
+}
+.saiba {
+    background-color: black;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    letter-spacing: 4px;
+    font-weight: bold;
+    font-size: 1em;
+    width: 264px;
+    height: 40px;
+    padding-top: 0px;
+    border-radius: 19px 19px 19px 19px;
+}
+.eu {
+    width: 304px;
+    height: 304px;
+    margin: 0 45px;
+}
+h2 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 3em;
+    letter-spacing: 6px;
+}
+footer{
+    margin: 0px;
+}
+
+
+
+.secao-pesquisar-unidades {
+    background-color: rgba(230,230,230,255);
+    height: 840px;
+    margin: 0px;
+}
+.pesquisar-unidades {
+    text-align: left;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgba(255,255,255,255);
+    margin-bottom: 0px;
+    margin-top: 12px;
+    border: 10px;
+    border-color: black;
+    padding-left: 30px;
+    padding-bottom: 10px;
+}
+.botao-pesquisa {
+    background-color: rgb(172, 0, 0);
+    color: white;
+}
+.botao-pesquisa:hover {
+    color: #F47D7D;
+}
+.lupa-pesquisa {
+    height: 23px;
+    width: 23px;
+}
+.bloco-unidade {
+    text-align: center;
+    background-color: white;
+    border-radius: 10px 10px 10px 10px;
+    border-color: white;
+    border-style: solid;
+    border-width: 1px;
+    padding: 40px;
+    width: 280px;
+    height: 230px;
+    /* margin-left: 23em; */
+    box-shadow: 5px 5px rgba(0, 0, 0, 0.03);
+    font-size: 22px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-right: 50px;
+    margin-left: 35%;
+}
+.subtitulo-bloco {
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+.conteudo-bloco {
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: lighter;
+}
+.secao-contatoextra {
+    padding-top: 20px;
+    text-align: center;
+    background-color: rgb(172, 0, 0);
+    color: white;
+}
+.botao-acessar {
+    text-align: center;
+    background-color: #BB4848;
+    color: white;
+    margin-left: 0%;
+    border-color: rgba(255, 255, 255, 0);
+    border-radius: 10px 10px 10px 10px;
+    padding: 7px;
+    margin-bottom: 5px;
+}
+.botao-acessar:hover {
+    color: #F47D7D;
+}
+
+
+.homem {
+    width: 391px;
+    background-color: white;
+    border-radius: 35px 35px 35px 35px;
+    border-color: white;
+    border-style: solid;
+    border-width: 0px;
+}
+.margem {
+    background-color: white;
+    border-radius: 35px 35px 35px 35px;
+    border-color: white;
+    border-style: solid;
+    border-width: 1px;
+    padding: 40px;
+    width: 391px;
+    height: 350px;
+    margin-left: 23em;
+    box-shadow: 5px 5px rgba(0, 0, 0, 0.03);
+}
+h3 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    letter-spacing: 3px;
+    text-align: center;
+}
+.data {
+    font-family: Arial, Helvetica, sans-serif;
+    letter-spacing: 3px;
+}
+.logo2 {
+    width: 324px;
+    height: 84px;
+}
+.fim {
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    letter-spacing: 4px;   
+}
